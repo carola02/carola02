@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carola02/) 
 
  <div id="badges" align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=carola02.carola02&color=00cf00" alt=""/>
    
    <h1>
   Hola! Soy Carolina ¡Encantada de conocerte! 
@@ -25,7 +25,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carola02/)
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Carolina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carola02/)
    
 
 ---
