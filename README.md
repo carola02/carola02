@@ -18,12 +18,17 @@
 
 ### :woman_technologist: Sobre mí :
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-   
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
+Apasionada de la tecnología. Iniciando una transición laboral hacia en analisis de calidad de software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
+SoftwareTesting | QualityAssurance | QA Engineer | Python | SQL | Data Analyst |
+   
+* 🧑‍💻 No soy programadora, pero me parece que es un mundo fascinante
+
+* 🖌️ Diseñadora de corazón
+
+* 🌱 Estoy estudiando :blue_book: y practicando :computer: todo para formarme como una analista de calidad de software que me permitan colaborar estrechamente con equipos de desarrollo para asegurar la calidad de los productos o servicios para que los usuario tengan en sus manos un producto con los más altos estándares de calidad y usabilidad.
+
+* ❤️ Me encanta descubrir nuevas formas de automatizar el trabajo para liberar tiempo y usarlo de una mejor manera
 
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Carolina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carola02/)
    
