@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/carola02/carola02/blob/main/Banner_Carola02.png" width="800"/>
 </div>
-
 <div id="badges" align="center">
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carola02/) 
@@ -40,5 +39,5 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
