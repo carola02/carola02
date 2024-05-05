@@ -20,7 +20,7 @@
 
 Apasionada de la tecnología. Iniciando una transición laboral hacia en analisis de calidad de software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-SoftwareTesting | QualityAssurance | QA Engineer | Python | SQL | Data Analyst |
+**SoftwareTesting | QualityAssurance | QA Engineer | Python | SQL | Data Analyst |**
    
 * 🧑‍💻 No soy programadora, pero me parece que es un mundo fascinante
 
