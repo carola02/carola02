@@ -58,5 +58,5 @@ Apasionada de la tecnología. Iniciando una transición laboral hacia en analisi
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
 
