@@ -19,13 +19,11 @@ Apasionada de la tecnología. Iniciando una transición laboral hacia en analisi
 
 **SoftwareTesting | QualityAssurance | QA Engineer | Python | SQL | Data Analyst |**
    
+* 🌱 Como QA Tester, busco potenciar procesos y productos que ofrezcan una interacción fácil y fluida para los usuarios por medio del desarrollo y aplicación de escenarios de prueba robustos. Encuentro fascinante el Lean Design de productos y servicios, y estoy comprometida a encontrar la funcionalidad y practicidad que satisfaga las necesidades del cliente. 
+
 * 🧑‍💻 No soy programadora, pero me parece que es un mundo fascinante
 
 * 🖌️ Diseñadora de corazón
-
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: todo para formarme como una analista de calidad de software que me permitan colaborar estrechamente con equipos de desarrollo para asegurar la calidad de los productos o servicios para que los usuario tengan en sus manos un producto con los más altos estándares de calidad y usabilidad.
-
-* :telescope: Estoy cursando la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansiosa por aplicar mis nuevos conocimientos que se complementan con mi experiencia laboral. :muscle:
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar el trabajo para liberar tiempo y usarlo de una mejor manera
 
